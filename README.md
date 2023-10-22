@@ -1,6 +1,6 @@
 # Deep-Learning-a-gyarkolatban---BitMesterek
 Group name: BitMesterek
-Members: Varga Bálint - R5MUH0
+Members: Varga Bálint - R5MUH0 \n
          Varga Vilmos Balázs - PKWSUX
          Velkey József - VWWAQY
 
