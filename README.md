@@ -10,4 +10,8 @@ https://www.kaggle.com/competitions/optiver-trading-at-the-close<br>
 <br>
 The goal of this competition is to develop a model capable of predicting the closing price movements of Nasdaq stocks, based on the last ten minutes of price changes before the exchange closes for the day. <br>
 <br>
-The dataset contains 481 days of data, each with 200 stocks. The value of the stocks are recorded in 55 steps throughout 10 minutes, and the goal is to predict how they will change in the next 60 seconds.
+The dataset contains 481 days of data, each with 200 stocks. The value of the stocks are recorded in 55 steps throughout 10 minutes, and the goal is to predict how they will change in the next 60 seconds.<br>
+<br>
+The program currently works by mounting Colab to Bálint's Google Drive, downloading, unzipping and accessing the data there. To run it yourself you must change the mounting directory to your own in Cell 3.<br>
+<br>
+So far only the train.csv file is being used.
