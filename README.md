@@ -12,4 +12,4 @@ The goal of this competition is to develop a model capable of predicting the clo
 <br>
 The dataset contains 481 days of data, each with 200 stocks. The value of the stocks are recorded in 55 steps throughout 10 minutes, and the goal is to predict how they will change in the next 60 seconds.<br>
 <br>
-The program downloads the necessery train.csv file to run.<br>
+The program downloads the necessary train.csv file to run.<br>
