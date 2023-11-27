@@ -14,4 +14,4 @@ The dataset contains 481 days of data, each with 200 stocks. The value of the st
 <br>
 The program downloads the necessary train.csv file to run.<br>
 <br>
-The target metric is the mean absolute error (MAE) of the predicted and target values. The training and evaluation can both be found in the last cell.<br>
+The target metric is the mean absolute error (MAE) of the predicted and target values. Training and evaluation can both be found in the last cell of the notebook.<br>
