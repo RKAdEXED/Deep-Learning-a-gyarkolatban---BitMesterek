@@ -13,3 +13,5 @@ The goal of this competition is to develop a model capable of predicting the clo
 The dataset contains 481 days of data, each with 200 stocks. The value of the stocks are recorded in 55 steps throughout 10 minutes, and the goal is to predict how they will change in the next 60 seconds.<br>
 <br>
 The program downloads the necessary train.csv file to run.<br>
+<br>
+The target metric is the mean absolute error (MAE) of the predicted and target values. The training and evaluation can both be found in the last cell.<br>
